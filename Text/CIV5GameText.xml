@@ -32,7 +32,7 @@
 			<Text>Blockbuster, as applied to film or theatre, denotes a very popular or successful production. The entertainment industry use was originally theatrical slang referring to a particularly successful play, but is now used primarily by the film industry.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BLOCKBUSTER_HELP">
-			<Text>Blockbusters can only be gained from the [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] Wonder. They can be traded off to other Civilizations.</Text>
+			<Text>Blockbusters provide +4 [ICON_HAPPINESS_1] to your empire. They can only be gained from the [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] Wonder. They can be traded off to other Civilizations.</Text>
 		</Row>
 		
 		<!--BUILDINGS-->
@@ -59,7 +59,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BREWERY_STRATEGY</Tag>
-			<Text>The Brewery increases the [ICON_HAPPINESS_1] Happiness in the empire and boost the city's growth by boosting the food output of many resources. It's useful if you want to grow your city.</Text>
+			<Text>The Brewery increases the [ICON_HAPPINESS_1] Happiness in the empire and boosts the city's growth by boosting the food output of many resources.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BURIAL_MOUND</Tag>
@@ -72,6 +72,10 @@
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BURIAL_MOUND_STRATEGY</Tag>
 			<Text>The Burial Mound increases the Culture of a city, speeding the growth of the city's territory.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_BURIAL_MOUND_HELP</Tag>
+			<Text>+2 [ICON_CULTURE]</Text>
 		</Row>
 		<Update>
 			<Set Text="Each source of [ICON_RES_FUR] Fur and [ICON_RES_IVORY] Ivory worked by this City produce +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have an improved source of [ICON_RES_HORSE] Horses, [ICON_RES_FUR] Fur, or [ICON_RES_IVORY] Ivory nearby."/>
